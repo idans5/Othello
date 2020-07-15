@@ -1,1 +1,1 @@
-# Othello - Game
+# Othello - Othello game in C# with UI
